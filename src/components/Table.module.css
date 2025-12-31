@@ -1,0 +1,46 @@
+h1{
+    font-size: 30px;
+    justify-content: left;
+    padding: 30px;
+}
+
+.tab {
+  display: flex;
+  justify-content: center;
+  margin: 40px 0;
+}
+
+table {
+  width: 80%;
+  max-width: 900px;
+  border-collapse: collapse;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 1.1rem;
+  background-color: #ffffff;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+
+th {
+  background-color: rgb(44, 4, 80);
+  color: white;
+  padding: 18px;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+  border: 1px solid #d1d5db;
+}
+
+
+td {
+  padding: 16px;
+  text-align: center;
+  color: #333;
+  border: 1px solid #d1d5db;
+}
+
+
+
+
+

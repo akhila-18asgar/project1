@@ -1,0 +1,15 @@
+.navb{
+    background-color: rgb(34, 154, 214);
+    display: flex;
+    justify-content:space-between;
+}
+.head{
+    justify-content: left ;
+    color: white;
+}
+a{
+    color: white;
+    justify-content: right;
+    padding: 0px 10px;
+    font-size: 20px;
+}
