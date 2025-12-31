@@ -3,7 +3,6 @@ import Style from './NavBar.module.css'
 function NavBar(){
     return(
         <>
-        <h1 className={Style.head}>My App</h1>
         <nav className={Style.navb}>
             <h1 className={Style.head}>My App</h1>
             <a>Home</a>

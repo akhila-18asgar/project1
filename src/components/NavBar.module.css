@@ -1,15 +1,24 @@
 .navb{
-    background-color: rgb(34, 154, 214);
     display: flex;
-    justify-content:space-between;
+  align-items: center;
+  gap: 2rem;
+  padding: 1rem 2rem;
+  background-color: #0f172a; 
+  color: #ffffff;
+  height: 20px;
+
 }
-.head{
-    justify-content: left ;
-    color: white;
+.head {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-right: auto; 
 }
 a{
-    color: white;
-    justify-content: right;
-    padding: 0px 10px;
-    font-size: 20px;
+      text-decoration: none;
+  color: #e5e7eb;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: color 0.3s ease;
 }
+
+
